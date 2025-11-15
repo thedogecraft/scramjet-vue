@@ -2,7 +2,7 @@
 
 <h1 align="center">Scramjet Vue Demo</h1>
 
-<a href="https://github.com/MercuryWorkshop/Scramjet-App"><h1>looking for original repo?</h1></a>
+<a href="https://github.com/MercuryWorkshop/Scramjet-App">looking for original repo?</a>
 
 The demo implementation of <a href="https://github.com/MercuryWorkshop/scramjet">Scramjet</a> using vue, the most advanced web proxy.
 
